@@ -36,10 +36,9 @@ pkg install bash
 pkg install git
 pip install bs4
 pip install mechanize
-git clone https://github.com/YosuaXElite3/New.py
+git clone https://github.com/YosuaXElite3/New1.py
 cd New
 git pull
-cd New
 python New.py
 ```
 
