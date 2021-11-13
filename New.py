@@ -81,7 +81,7 @@ from datetime import datetime
 from time import sleep
 try:
   os.system('mkdir dump')
-        os.system('mkdir Hasil')
+  os.system('mkdir Hasil')
 except (KeyError,IOError):pass
 I='\033[0;32m'
 C='\033[0;36m'
