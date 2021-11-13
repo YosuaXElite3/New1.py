@@ -36,7 +36,6 @@ pkg install python
 pkg install python2
 pkg install bash
 pkg install git
-pip install request
 pip install bs4
 git clone https://github.com/YosuaXElite3/New1.py
 cd New1.py
