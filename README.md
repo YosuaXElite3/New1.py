@@ -38,22 +38,23 @@ pkg install bash
 pkg install git
 pip install request
 pip install bs4
-git clone https://github.com/YosuaXElite3/New.py
-cd New
+git clone https://github.com/YosuaXElite3/New1.py
+cd New1.py
 git pull
 ```
 >
 ★ **Bagi Yang Sudah Install Bahan** ★
 >
 ```
-cd New
+cd New1
 git pull
 ```
+
 >
 **★ Cara Jalankan Script ★**
 >
 ```
-cd New
-python New.py
+cd New1
+python New1.py
 ```
 
