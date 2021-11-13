@@ -35,6 +35,7 @@ pkg install python2
 pkg install bash
 pkg install git
 pip install bs4
+pip install mechanize
 git clone https://github.com/YosuaXElite3/New.py
 cd New
 git pull
