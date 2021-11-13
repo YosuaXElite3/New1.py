@@ -487,7 +487,7 @@ def ganti_ua():
                 dump = open('.ua','w')
                 dump.write(uq)
                 dump.close()
-                exit(war+"Jalankan Lagi Script : python NEW.py")
+                exit(war+"Jalankan Lagi Script : python New1.py")
                 def jalan(z):
         for e in z + "\n":
                 sys.stdout.write(e)
